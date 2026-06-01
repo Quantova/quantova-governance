@@ -1,0 +1,18 @@
+# Secrets / keys (defensive: this repo needs none)
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa*
+*.seed
+*.mnemonic
+secrets.*
+credentials.*
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
